@@ -1,0 +1,3 @@
+com\uci\todorestservice\db\DatabaseConnector.class
+com\uci\todorestservice\db\DatabaseUtils.class
+com\uci\todorestservice\Product.class
